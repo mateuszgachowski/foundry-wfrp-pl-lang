@@ -17,6 +17,6 @@
     }
   ],
   "url": "https://github.com/mateuszgachowski/foundry-wfrp-pl-lang",
-  "manifest": "",
+  "manifest": "https://raw.githubusercontent.com/mateuszgachowski/foundry-wfrp-pl-lang/main/pl-PL/module.json",
   "download": ""
 }
