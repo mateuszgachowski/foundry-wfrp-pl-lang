@@ -1,0 +1,22 @@
+{
+  "id": "WFRP4E Polish",
+  "title": "Polska Wersja WFRP4E",
+  "description": "Polska wersja językowa do modułu WFRP4E Core",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "author": "Mateusz Gachowski",
+  "coreTranslations": true,
+  "languages": [
+    {
+      "lang": "pl",
+      "name": "Polski",
+      "path": "pl.json"
+    }
+  ],
+  "url": "https://github.com/mateuszgachowski/foundry-wfrp-pl-lang",
+  "manifest": "",
+  "download": ""
+}
