@@ -3,7 +3,7 @@ Hooks.once('init', () => {
         Babele.get().register({
             module: 'wfrp4e-core-pl',
             lang: 'pl',
-            dir: 'compendium'
+            dir: 'pl/compendium'
         });
     }
 });
