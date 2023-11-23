@@ -2,7 +2,7 @@
   "id": "wfrp4e-core-pl",
   "title": "Polska Wersja WFRP4E",
   "description": "Polska wersja językowa do modułu WFRP4E Core",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
@@ -16,7 +16,36 @@
       "path": "pl.json"
     }
   ],
+  "packs": [
+    {
+      "name": "basic",
+      "label": "Podstawowe Umiejętności",
+      "system": "wfrp4e",
+      "path": "packs/basic.db",
+      "type": "Item",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "tables-extra",
+      "label": "Tabele (Dodatkowe)",
+      "system": "wfrp4e",
+      "path": "packs/tables-extra.db",
+      "type": "RollTable",
+      "private": false,
+      "flags": {}
+    }
+  ],
   "url": "https://github.com/mateuszgachowski/foundry-wfrp-pl-lang",
   "manifest": "https://raw.githubusercontent.com/mateuszgachowski/foundry-wfrp-pl-lang/main/pl-PL/module.json",
-  "download": "https://github.com/mateuszgachowski/foundry-wfrp-pl-lang/archive/refs/tags/v1.0.4.zip"
+  "download": "https://github.com/mateuszgachowski/foundry-wfrp-pl-lang/archive/refs/tags/v1.0.5.zip",
+  "relationships": {
+    "systems": [
+      {
+        "id": "wfrp4e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  }
 }
