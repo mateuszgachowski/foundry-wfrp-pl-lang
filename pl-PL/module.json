@@ -9,22 +9,12 @@
   },
   "author": "Mateusz Gachowski",
   "coreTranslations": true,
+  "esmodules": ["babele-register.js"],
   "languages": [
     {
       "lang": "pl",
       "name": "Polski",
       "path": "pl.json"
-    }
-  ],
-  "packs": [
-    {
-      "name": "tables-extra",
-      "label": "Tabele (Dodatkowe)",
-      "system": "wfrp4e",
-      "path": "packs/tables-extra.db",
-      "type": "RollTable",
-      "private": false,
-      "flags": {}
     }
   ],
   "dependencies": [{
