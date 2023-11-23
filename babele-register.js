@@ -2,7 +2,7 @@ Hooks.once('init', () => {
     if (typeof Babele !== 'undefined') {
         Babele.get().register({
             module: 'wfrp4e-core-pl',
-            lang: 'pl',
+            lang: 'pl-PL',
             dir: 'compendium'
         });
     }
