@@ -1,0 +1,229 @@
+{
+    "label": "Tables (Core Rulebook)",
+    "entries": {
+      "Beyond the Social Norm": {
+        "name": "Poza normą społeczną",
+        "description": ""
+      },
+      "Career - Dwarf": {
+        "name": "Kariera - Krasnolud",
+        "description": ""
+      },
+      "Career - Halfling": {
+        "name": "Kariera - Niziołek",
+        "description": ""
+      },
+      "Career - High Elf": {
+        "name": "Kariera - Wysoki Elf",
+        "description": ""
+      },
+      "Career - Human": {
+        "name": "Kariera - Człowiek",
+        "description": ""
+      },
+      "Career - Wood Elf": {
+        "name": "Kariera - Leśny Elf",
+        "description": ""
+      },
+      "Catastrophic Miscast Table (Moo)": {
+        "name": "Katastrofalny stół z błędnymi rzutami (Muu)",
+        "description": ""
+      },
+      "Character Ambition": {
+        "name": "Ambicja charakteru",
+        "description": ""
+      },
+      "Character Motivation": {
+        "name": "Motywacja charakteru",
+        "description": ""
+      },
+      "Character Quirk": {
+        "name": "Dziwactwo charakteru",
+        "description": ""
+      },
+      "Character Trait": {
+        "name": "Cecha charakteru",
+        "description": ""
+      },
+      "Critical Hits - Arm": {
+        "name": "Trafienia krytyczne – ramię",
+        "description": ""
+      },
+      "Critical Hits - Body": {
+        "name": "Trafienia krytyczne – ciało",
+        "description": ""
+      },
+      "Critical Hits - Head": {
+        "name": "Trafienia krytyczne – głowa",
+        "description": ""
+      },
+      "Critical Hits - Leg": {
+        "name": "Trafienia krytyczne – Noga",
+        "description": ""
+      },
+      "Dissolution of Body and Mind - Dwarf": {
+        "name": "Rozpad Ciała i Umysłu – Krasnolud",
+        "description": ""
+      },
+      "Dissolution of Body and Mind - Halfling": {
+        "name": "Rozpad Ciała i Umysłu – Halfling",
+        "description": ""
+      },
+      "Dissolution of Body and Mind - High Elf": {
+        "name": "Rozpad Ciała i Umysłu – Wysokie Elfy",
+        "description": ""
+      },
+      "Dissolution of Body and Mind - Human": {
+        "name": "Rozpad Ciała i Umysłu – Człowiek",
+        "description": ""
+      },
+      "Dissolution of Body and Mind - Wood Elf": {
+        "name": "Rozpad Ciała i Umysłu - Leśny Elf",
+        "description": ""
+      },
+      "Dooming": {
+        "name": "Zagłada",
+        "description": ""
+      },
+      "Dooming (Alternate)": {
+        "name": "Zagłada (alternatywna)",
+        "description": ""
+      },
+      "Drive Failure": {
+        "name": "Awaria napędu",
+        "description": ""
+      },
+      "Events Table": {
+        "name": "Tabela wydarzeń",
+        "description": ""
+      },
+      "Eye Colour - Dwarf": {
+        "name": "Kolor oczu - karzeł",
+        "description": ""
+      },
+      "Eye Colour - Halfling": {
+        "name": "Kolor oczu - Niziołek",
+        "description": ""
+      },
+      "Eye Colour - High Elf": {
+        "name": "Kolor oczu - Wysoki Elf",
+        "description": ""
+      },
+      "Eye Colour - Human": {
+        "name": "Kolor oczu - ludzki",
+        "description": ""
+      },
+      "Eye Colour - Wood Elf": {
+        "name": "Kolor oczu - Leśny Elf",
+        "description": ""
+      },
+      "Gunpowder Fumble Table (Moo)": {
+        "name": "Stół do prochu (Muu)",
+        "description": ""
+      },
+      "Hair Colour - Dwarf": {
+        "name": "Kolor włosów - karzeł",
+        "description": ""
+      },
+      "Hair Colour - Halfling": {
+        "name": "Kolor Włosów - Halfling",
+        "description": ""
+      },
+      "Hair Colour - High Elf": {
+        "name": "Kolor włosów - Wysoki Elf",
+        "description": ""
+      },
+      "Hair Colour - Human": {
+        "name": "Kolor włosów - ludzki",
+        "description": ""
+      },
+      "Hair Colour - Wood Elf": {
+        "name": "Kolor włosów - Leśny Elf",
+        "description": ""
+      },
+      "Hit Location": {
+        "name": "Kliknij opcję Lokalizacja",
+        "description": ""
+      },
+      "Hit Location - Snake": {
+        "name": "Trafienie w lokalizację – Wąż",
+        "description": ""
+      },
+      "Hit Location - Spider": {
+        "name": "Trafiona lokalizacja - Pająk",
+        "description": ""
+      },
+      "How Do I Know You Again?": {
+        "name": "Jak Cię znowu poznać?",
+        "description": ""
+      },
+      "I Need A Job! - What": {
+        "name": "Potrzebuję pracy! - Co",
+        "description": ""
+      },
+      "I Need A Job! - Who": {
+        "name": "Potrzebuję pracy! - Kto",
+        "description": ""
+      },
+      "I Need A Job! - Why": {
+        "name": "Potrzebuję pracy! - Dlaczego",
+        "description": ""
+      },
+      "Major Miscast Table": {
+        "name": "Tabela głównych błędnych rzutów",
+        "description": ""
+      },
+      "Major Miscast Table (Moo)": {
+        "name": "Tabela głównych błędnych rzutów (Muu)",
+        "description": ""
+      },
+      "Mental Corruption": {
+        "name": "Zepsucie psychiczne",
+        "description": "A corrupted mind may be less obvious than a sprouting tentacle, but it can be just as devastating to your life. Use the description you roll to build a unique mental mutation that fits your character, taking a little time to create a believable new mindset. This as an opening to portray your character in a new, potentially horrific way, so you can also use your mental mutation as an opportunity to change your Motivation."
+      },
+      "Minor Miscast Table": {
+        "name": "Drobna tabela błędnych rzutów",
+        "description": ""
+      },
+      "Minor Miscast Table (Moo)": {
+        "name": "Tabela drobnych błędnych rzutów (Muu)",
+        "description": ""
+      },
+      "Oops! Table": {
+        "name": "Ups! Tabela",
+        "description": ""
+      },
+      "Physical Mutation": {
+        "name": "Mutacja fizyczna",
+        "description": "Use the descriptions below to help create a unique version of your mutation. Take time to describe how it manifests, adding as many gruesome details as you dare. In all cases, if your mutation is obvious, you not only suffer significant penalties to Fellowship Tests as determined by the circumstance, but people will likely flee from your presence, the Watch will be called, Witch Hunters will descend, and life will swiftly become very difficult."
+      },
+      "Species": {
+        "name": "Gatunek",
+        "description": ""
+      },
+      "Stinking Drunk": {
+        "name": "Śmierdzący pijak",
+        "description": "If you fail a @UUID[Compendium.wfrp4e-core.items.R2ytluHiEFF2KQ5e]{Consume Alcohol} a number of times equal to your Toughness Bonus, you are Stinking Drunk. Roll on the following table to see what happens:"
+      },
+      "Talents - Character Creation": {
+        "name": "Talenty – Tworzenie Postaci",
+        "description": ""
+      },
+      "The Swirling Winds": {
+        "name": "Wirujące Wiatry",
+        "description": ""
+      },
+      "Travel Table": {
+        "name": "Stół podróżny",
+        "description": ""
+      },
+      "Wrath of the Gods Table": {
+        "name": "Stół Gniewu Bogów",
+        "description": ""
+      },
+      "You Find Yourself In A Tavern - What Happens Next?": {
+        "name": "Znajdziesz się w tawernie – co dzieje się dalej?",
+        "description": ""
+      }
+    }
+  }

@@ -1,0 +1,253 @@
+{
+    "label": "Bestiary (Core Rulebook)",
+    "entries": {
+      "Basilisk": {
+        "name": "Bazyliszek",
+        "description": "<section id=\"secret-zdzlEp0D0ezaKtyw\" class=\"secret\"><p>These eight-legged reptilian creatures are solitary and elusive. Claimed to be one of the most ancient creatures of Chaos, they are said to be filled with such spite and venom the very ground they walk on is poisoned. Their bite, too, is poisonous, but it’s their petrifying gaze most fear. Rarely encountered these days, basilisks are a most dangerous foe. Their glands and organs are highly prized by wizards and alchemists, so opportunist hunters often chase rumors of Basilisks in the wild-places of the @UUID[JournalEntry.ozE2DMCMK64eE5pD.JournalEntryPage.0Cmr0LZ3boLbNt6p]{Vorbergland}, though few return.</p></section>"
+      },
+      "Bear": {
+        "name": "Niedźwiedź",
+        "description": "<section id=\"secret-dK2N4KnI1iBNUe7c\" class=\"secret\"><p>Wanderers of the Reikland’s wild places, Bears are solitary and usually shy, only turning aggressive when interlopers threaten their young or when wounded. When food is scarce, they will approach unprotected settlements and travelers, especially those careless with provisions.</p></section>"
+      },
+      "Black Bella": {
+        "name": "Czarna Bella",
+        "description": "<section id=\"secret-MjIx27JoP8lYXwK6\" class=\"secret\"><p>Bethilda’s husband was slaughtered by Beastmen raiding the village of Reikherz. Four months later, she was evicted for failing to pay rent. Desperate, Bethilda approached her cousin, Alwin, a wanted outlaw. After a little persuasion, Bethilda joined his band of brigands harassing the Karstadt–Siedlung road and was surprised by just how exhilarating she found highway robbery. Now she rides as Black Bella and has built a reputation for brutal ruthlessness that now concerns her cousin deeply.</p></section>"
+      },
+      "Bloodletter of Khorne": {
+        "name": "Upuszczacz Krwi Khorna",
+        "description": "<section id=\"secret-hADj0UTb9AFeUL5y\" class=\"secret\"><p>Khorne’s chosen, Bloodletters stalk the battlefelds of the Old World, taking skulls and lives in honour of the Blood God. Sharp, needle-like teeth protrude from monstrous, horned visages. Their blood-red skin is hard as brass, forged upon the anvil of ceaseless war. Each Bloodletter bears a Hellblade, a wickedly sharp blade steeped in gore, which it wields with reckless abandon, surrendering itself to the sweet sensation of senseless slaughter.</p></section>"
+      },
+      "Boar": {
+        "name": "Dzik",
+        "description": "<section id=\"secret-0mOdzM97CZBimHFw\" class=\"secret\"><p>Scavenging in the forest, Boars are reclusive creatures, but when cornered will fight using their sharp tusks with a tenacity that shocks the unprepared. Though most are 5–6 feet long, some grow to  remarkable proportions, with the largest prized by @UUID[Compendium.wfrp4e-core.actors.E7BiDqsB55BrOQut]{Orcs}, who use them as ferocious war mounts.</p></section>"
+      },
+      "Bog Octopus": {
+        "name": "Bagienna Ośmiornica",
+        "description": "<section id=\"secret-MIXixnWHdc5yzqhl\" class=\"secret\"><p>Bog octopuses skulk in shallow waters, usually in marsh and swampland. They await prey in perfect stillness, able to sense the vibrations of approaching creatures, then erupt from the muddy water, seeking to grapple and drown using their strong tentacles. Usually mottled green and brown, Bog Octopuses are perfectly camouﬂaged for boggy environments, their huge, limpid eyes often the only clue betraying their presence. Most have tentacles of twenty feet or so and a body some six-feet long, but stories claim they grow many times that size, especially if they have a regular supply of meat.</p></section>"
+      },
+      "Bray-Shaman": {
+        "name": "Bray-Szaman",
+        "description": "<section id=\"secret-eAxmRlZso0kqKsap\" class=\"secret\"><p>Bray-Shaman are born with the instinctive ability to wield the powers of Chaos, which they deploy with terrifying capability. Uniquely amongst Beastmen, they need never defend themselves from other members of their herd, as none would dare harm a Bray Shaman, as they are believed to speak the will of the Dark Gods themselves </p></section>"
+      },
+      "Cairn Wraith": {
+        "name": "Widmo Cairna",
+        "description": "<section id=\"secret-SRisNdSeAF3nCZxk\" class=\"secret\"><p>Cairn Wraiths are especially potent spirits, the spectral remains of aspiring necromancers who sought to prolong their existence through dark magic. In life they were strong-willed; in death their malevolent will drives them to exact a fearful vengeance on the burning souls of the living. Many such Wraiths haunt the mist-shrouded cairns that dot the landscape of the Empire, such as the fell @UUID[JournalEntry.ozE2DMCMK64eE5pD.JournalEntryPage.mdjl1WxjZLeuSWAN]{Hägercrybs}.</p></section>"
+      },
+      "Cave Squig": {
+        "name": "Jaskiniowy Squig",
+        "description": "<section id=\"secret-oDtCiP01aJblHtLV\" class=\"secret\"><p>Squigs are large, generally round, fungoid creatures that live deep below ground in the dankest, darkest caves. They possess a gaping maw and large, sharp teeth, and are prized by @UUID[Compendium.wfrp4e-core.actors.zzdOpKqBC28J66Mn]{Goblins} for their ﬂesh and their hides, and to act as guards and pets.</p></section>"
+      },
+      "Chaos Warrior": {
+        "name": "Wojownik Chaosu",
+        "description": "<section id=\"secret-UmFQtYU7axewKKpu\" class=\"secret\"><blockquote><p>‘In the dreaded north lies the greatest danger. It is the product of another place, another time, released upon us by the misfortune and mistake of long-dead gods. It hungrily grasps for our world, quivering with expectation, sending forth hordes of the most warlike and jealous people of them all: our own kin, the tribes of Man.’</p><p style=\"text-align: right;\"><em>— Phitzer, Wissenlander Witch</em></p></blockquote><p>Heavily armoured hulking brutes adorned with ornate spikes and eye-watering symbols of their gods, Chaos Warriors are clearly no longer Human. Nothing is left of their former lives, they exist to serve their dark patron and nothing more. While most Chaos Warriors are exalted marauders from lands far to the north, a select few cultists may be gifted a prize of Chaos Armour by the Dark Gods, affording them great power at the cost of never removing the armour for as long as they live. As few warriors are their better, and no knight better protected, their lives are often very long indeed.</p></section>"
+      },
+      "Clanrat": {
+        "name": "Klanrat",
+        "description": "<section id=\"secret-Y5U5kScxBjhDwZf0\" class=\"secret\"><p>Most Skaven are Clanrats, hailing from one of the many complex Skaven clans that constantly bicker, politic, backstab, and eventually war on each other. They generally act on the orders of higher-status Skaven, but are always looking for a way to secure a better position, most often by betrayal. They usually dress in mouldering leather or filthy cloth, with scraps of rusty and tarnished metal serving as makeshift armour. Clanrats are often sent out as scouts or raiders to scavenge for goods, search for warpstone, or raid for slaves.</p></section>"
+      },
+      "Crypt Ghoul": {
+        "name": "Ghul Krypty",
+        "description": "<section id=\"secret-cSI55YBJfss3QSgb\" class=\"secret\"><p>Some of the most pitiable creatures of the Old World, Crypt Ghouls are ugly, stooping creatures with sallow, flthy skin and sharp, yellow teeth capable of tearing ﬂesh from their victims. Ghouls are drawn to the magical energies of Shyish and Dhar, which in practice means they gravitate to graveyards and crypts, and around battlefelds.</p></section>"
+      },
+      "Cultist": {
+        "name": "Kultysta",
+        "description": "<section id=\"secret-njo6IVKU18vA4SxA\" class=\"secret\"><p>For those untainted by the blight of Chaos, it appears horrifyingly alien, but to those it affects, every step towards damnation, every idea bringing them closer to Chaos, seems not only logical, but inevitable. Some especially devout followers of proscribed cults are granted ‘gifts’ by their gods; foul mutations that will ensure their deaths should the witch hunters unearth their secret.</p></section>"
+      },
+      "Daemonette of Slaanesh": {
+        "name": "Daemonette ze Slaanesha",
+        "description": "<section id=\"secret-BXyeWId7fp0PJmOI\" class=\"secret\"><p>Like all creatures of the Prince of Pain and Pleasure, Daemonettes of Slaanesh are at once beautiful and horrifying. Possessing an unearthly allure that defes all sense and rationality, they render their enemies powerless to resist, so entranced are they by the profane sensuality of their monstrous forms. They have creamy, pale skin and large jetblack eyes. Wild, ﬂowing, unnaturally coloured hair graces their delicate crowns. In lieu of hands their slender arms terminate in sinuous, crab-like claws.</p></section>"
+      },
+      "Demigryph": {
+        "name": "Półgryf",
+        "description": "<section id=\"secret-ltXKkluUM9F2zFRG\" class=\"secret\"><p>With head of eagle and body of lion, demigryphs are powerful creatures with a noble bearing. They roam the forests and grasslands of the Empire, usually far from human habitation, hunting as individuals. Captive demigryphs are deployed by the Empire’s doughtiest knightly orders as war mounts. Unlike larger monstrous mounts, which are generally taken when young or bred in captivity, the capture of a full grown demigryph is a rite of passage among some orders.</p></section>"
+      },
+      "Dieter Käsegeier": {
+        "name": "Dietera Käsegeiera",
+        "description": ""
+      },
+      "Dire Wolf": {
+        "name": "Wilkor",
+        "description": "<section id=\"secret-UXaAD3dsZgu2qEkD\" class=\"secret\"><p>When the earth gives up the dead, it is not just humans who rise; macabre parodies of Giant Wolves, with glowing eyes, and tatters of ﬂesh falling from their rotting, festering carcasses, Dire Wolves prowl the night on behalf of their necromantic masters. In the Reikland, they are said to roam the haunted forests of the @UUID[JournalEntry.ozE2DMCMK64eE5pD.JournalEntryPage.mdjl1WxjZLeuSWAN]{Hägercrybs} when Morrslieb is full, running wild in search of prey to sate their insatiable hunger, cursed with an appetite for ﬂesh and a heightened instinct for the smell of blood</p></section>"
+      },
+      "Dog": {
+        "name": "Pies",
+        "description": "<section id=\"secret-D3VMZDvgXxuda96A\" class=\"secret\"><p>Dogs are bred for myriad purposes throughout the Old World. While the pampered pooches of the courtiers of @UUID[JournalEntry.ozE2DMCMK64eE5pD.JournalEntryPage.V6tkgQ9A2skppjyl]{Altdorf} pose only a threat to an adventurer’s dignity, larger breeds, including those bred for war and dog-fighting can be a formidable threat.</p></section>"
+      },
+      "Dragon": {
+        "name": "smok",
+        "description": "<section id=\"secret-KSwR21KkcJ73Jpeh\" class=\"secret\"><p>Dragons ruled the skies long before the elder species walked the Known World. While the Dragons of&nbsp; today are mere shadows of their ancient brethren, they remain some of the most powerful creatures&nbsp; known to the Empire. The few surviving elder dragons are terrifyingly immense and rarely rouse from their slumbers. Should a Dragon take umbrage with a small party of adventurers, it’s time to run.</p></section>"
+      },
+      "Dwarf": {
+        "name": "Krasnolud",
+        "description": "<section id=\"secret-h5cBaU8rkw7UFZmU\" class=\"secret\"><p>@UUID[JournalEntry.IQ0PgoJihQltCBUU.JournalEntryPage.l0f11ypRjH9sR48Q#dwarfs]{Dwarfs}</p></section>"
+      },
+      "Fenbeast": {
+        "name": "Fenbestia",
+        "description": "<section id=\"secret-UotH6C0fP5xmn37q\" class=\"secret\"><p>Raised by spellcasters from the filth of marshes and bogs, Fenbeasts are seemingly mindless automatons held together by magic. Vaguely humanoid, they are comprised of mud, bones, branches, and slime, and require significant quantities of magic to retain their integrity. Occasionally, they are raised by wizards skilled in Jade magic to act as a bodyguard or to fulfil a specific task requiring brute strength or mindless killing. Sometimes they rise independently, spawned in stagnant festering pools where the ﬂow of magic has been corrupted. The @UUID[Compendium.wfrp4e-wom.journals.Q9sQhbDN8NUHXYdA.JournalEntryPage.MVwOuM2YKhUvA1E1#the-jade-college]{Jade College} in @UUID[JournalEntry.ozE2DMCMK64eE5pD.JournalEntryPage.V6tkgQ9A2skppjyl]{Altdorf} is said to maintain a score of the creatures as drudges, fetching and carrying for senior Magisters, maintained by the ceaseless channeling of dozens of apprentices.</p></section>"
+      },
+      "Fimir": {
+        "name": "Fimir",
+        "description": "<section id=\"secret-ESTE07FU4VXbZtgm\" class=\"secret\"><blockquote><p> ‘We spent our honeymoon at the family’s summer house by the sea. One morning, when taking the air along the bluffs, the mist closed in. It was suddenly calm and strangely quiet. Then, out of nowhere… Bog Daemons! Huge, one-eyed, barrel-chested brutes. I was sent crashing to the ground with a swipe of a tail. Another bundled Greta up and threw her over its shoulder. Then they just vanished into the mist, as swiftly and as silently as they had appeared. I swear that is Verena’s own truth.’</p><p style=\"text-align: right;\">– <em>Oleg Grauhof, Reiklander Merchant, shortly before being hanged for the murder of his wife</em></p></blockquote><p>Fimir are secretive, one-eyed, reptilian creatures that stalk the darkest recesses of the dank swamps and boglands of western Reikland. They shun sunlight, usually only appearing at dawn or dusk, or under the cover of mist and fog to spirit away victims for mysterious, loathsome purposes. Human witches reckless or desperate  enough to meddle in the affairs of Daemons have been known to seek out the Fimir to learn their malign mysteries, for it is said they summon and control such entities. Whether the greater risk lies in trafficking with the Ruinous Powers, or treating with the Fimir, is anyone’s guess. The Fimir have a matriarchal society. The leader of each clan is a powerful witch called a Meargh, and she’s aided by a cadre of lesser spellcasters called Dirach. The majority of the clan members are lowly Shearls, who are protected by a warrior caste, the Fimm, who have bony spikes and knobs on their tails, used to break the bones of unwary opponents.</p></section>"
+      },
+      "Fr'hough Mournbreath": {
+        "name": "Fr'hough Mournbreath",
+        "description": ""
+      },
+      "Ghost": {
+        "name": "Duch",
+        "description": "<section id=\"secret-9uAOsyYqBzjZwuw2\" class=\"secret\"><p>Ghosts are the sprits of tormented souls who died with unfnished business. Much like @UUID[Compendium.wfrp4e-core.actors.Mt5JAoOSaEH1PdcP]{Skeletons} and @UUID[Compendium.wfrp4e-core.actors.T79RqnDOAQLn3I1s]{Zombies}, Ghosts may be summoned by @UUID[Compendium.wfrp4e-core.actors.T5qAtpoKtB8iwTBd]{Vampires} or Necromancers, or may haunt areas suffused with Dhar. In exceptional circumstances, particularly driven spirits may claw their way from the Realm of Morr in pursuit of their own business, though such occurrences quickly draw the attention of the cult of Morr, or the wizards of the Amethyst Order. When summoned through the necromantic arts, Ghosts swarm together, forming great Spirit Hosts that swoop and plunge amongst their foes, spreading fear and disarray in their wake.</p></section>"
+      },
+      "Giant": {
+        "name": "Ogromny",
+        "description": "<section id=\"secret-O6EcvTeDSGoa2RC2\" class=\"secret\"><p>Giants are solitary creatures who usually shun civilization. Most stalk remote and high places surrounding the Empire, holing-up in caves and forgotten ruins far from smaller folk, though they sometimes migrate to the foothills in search of food. They have a reputation for belligerence and ferocity, due in equal parts to their intimidating size, their cattle eating, and their association with marauding Greenskin armies that enslave them. In truth, many giants are gentle souls, prone to raging tantrums and fiercely protective of their privacy, but not necessarily hostile to others. Because they are so long-lived, rumors suggest they hoard ancient lore, though most seem less than lucid, and certainly more interested in alcohol than debates about history.</p></section>"
+      },
+      "Giant Rat": {
+        "name": "Gigantyczny szczur",
+        "description": "<section id=\"secret-YKv2jV3fetoEvF1C\" class=\"secret\"><p>Rats get everywhere and are especially prevalent in the cities and towns. The more densely people are packed in, the more densely Rats are packed in with them, which is especially bad when the creatures&nbsp; carry disease. Though typically small, they can grow to monstrous proportions, with reports of rats beneath Altdorf the size of a Human and larger. Rat catchers are employed to keep them in check.</p></section>"
+      },
+      "Giant Spider": {
+        "name": "Gigantyczny Pająk",
+        "description": "<section id=\"secret-4zOoWWzKvxCdyQBR\" class=\"secret\"><p>Giant Spiders lurk deep within the forests and caves of the Empire, but can live anywhere, including dusty attics and dark cellars. Most trap their prey with strong webs before injecting venom. Though most are the size of a large Rat, some Giant Spider species are terrifyingly large. Forest Goblins often capture larger examples for mounts.</p></section>"
+      },
+      "Goblin": {
+        "name": "Chochlik",
+        "description": "<section id=\"secret-E2Z0jegOrNEyLilA\" class=\"secret\"><blockquote><p>‘Goblins, sir, thousands of ’em!’</p><p style=\"text-align: right\"><em>– Lieutenant Bromkopf, Reikland’s 24th regiment Foot</em></p></blockquote><p> </p><p>Scrawny, spiteful, nimble, and intelligent, a Goblin’s instinct for self-preservation should never be underestimated. Though cowardly, Goblins readily band together if this secures an overwhelming advantage in numbers. Goblins frequently join with @UUID[Compendium.wfrp4e-core.actors.E7BiDqsB55BrOQut]{Orc} armies — not always by choice — opportunistically helping themselves to the spoils of war while others do most of the actual fighting.</p></section>"
+      },
+      "Gor": {
+        "name": "Gor",
+        "description": "<section id=\"secret-1fmdbB41OA1FbT2r\" class=\"secret\"><p>Gors, the most common Beastmen, haunt almost every forest of the Old World. Their appearance varies widely, but all combine bestial and Human traits, often with the heads and legs of Goats with the torso and arms of Humans. The only feature all Gor universally possess is a large pair of horns — the larger the better, for they denote status amongst Beastmen — a trait that distinguishes them from @UUID[Compendium.wfrp4e-core.actors.vrYs3cbxvXtre6rv]{Ungor} and Turnskins. The largest Gors are known as Bestigors.</p></section>"
+      },
+      "Griffon": {
+        "name": "Gryfon",
+        "description": "<section id=\"secret-idJ9qUex4SNJsvUT\" class=\"secret\"><p>With the forequarters and wings of an eagle and the hindquarters of a great cat, Griffons are elegant beasts with a naturally proud and regal bearing. They nest high in the mountains that surround the Empire and are swift, efficient killers, not prone to the indiscriminate destruction of creatures like @UUID[Compendium.wfrp4e-core.actors.XtVkAVgZRIIgrBXb]{Manticores} or @UUID[Compendium.wfrp4e-core.actors.RiXpMLex8SZf6gaQ]{Hippogryphs}. Perhaps because of this seeming nobility, the image of the Griffon is extraordinarily popular in the Empire, used on heraldry, religious iconography, and as a symbol of the Empire itself. Griffons are also one of the most intelligent of beasts. If captured relatively young and subject to correct training, they can be incredibly loyal, able to anticipate and obey a wide variety of commands. They are so highly sought after that hunters regularly die trying to secure Griffon eggs to sell. Perhaps the most renowned Griffon in Reikland is Deathclaw. Housed in the @UUID[Compendium.wfrp4e-altdorf.journals.cDOlXEpTvnuaOJ0P.JournalEntryPage.ulseg2IAlTWy7m3s]{Imperial Zoo} in @UUID[Compendium.wfrp4e-core.journals.ozE2DMCMK64eE5pD.JournalEntryPage.V6tkgQ9A2skppjyl]{Altdorf}, Deathclaw is personally owned by the Crown Prince of Reikland and was reputedly hatched by Emperor Karl-Franz himself — a story that led to all manner of lewd cartoons being printed in seditious pamphlets.</p></section>"
+      },
+      "Halfling": {
+        "name": "Niziołek",
+        "description": "<section id=\"secret-d1ADsyWS6KDQFxDE\" class=\"secret\"><p>@UUID[JournalEntry.IQ0PgoJihQltCBUU.JournalEntryPage.l0f11ypRjH9sR48Q#halflings]{Halflings}</p></section>"
+      },
+      "High Elf": {
+        "name": "Wysoki Elf",
+        "description": "<section id=\"secret-1iA2MDDwFn6grbL6\" class=\"secret\"><p>@UUID[JournalEntry.IQ0PgoJihQltCBUU.JournalEntryPage.l0f11ypRjH9sR48Q#high-elves]{High Elves}</p></section>"
+      },
+      "Hippogryph": {
+        "name": "Hipogryf",
+        "description": "<section id=\"secret-KHQFu97XTyUsvDjI\" class=\"secret\"><p>Extraordinarily ferocious and territorial, Hippogryphs normally have the head, wings, and front quarters of an eagle and the hind quarters of a horse. Hailing most commonly from @UUID[JournalEntry.ozE2DMCMK64eE5pD.JournalEntryPage.w0YfGxsBuLoODCgc]{the Grey Mountains}, they attack without provocation, almost reckless in their fury, tearing ﬂesh into ribbons to be devoured later. Such is their rage, entire fields of livestock will be wiped out by a single Hippogryph, which will then make off with its choice of meat, leaving the rest to carrion birds. Having little in the way of intelligence, when Hippogryphs hunt, they tend to kill everything in sight, assuming anything unseen is gone forever, meaning that actual casualties to Hippogryphs are relatively low, given all it takes to avoid them is finding a good hiding place.</p></section>"
+      },
+      "Horse": {
+        "name": "Koń",
+        "description": "<section id=\"secret-KVVskb3Id1ELGbjT\" class=\"secret\"><p>Horses are bred for many jobs, including speedy mounts for messengers, sturdy destriers for knights, and mighty drays for farmers. They are so useful, horse trading is almost a competitive sport in the Reikland. Unscrupulous ‘Horse Copers’ (horse salesmen) are keen to make money at the expense of the ignorant buyer, painting and fling teeth of elderly horses or stiffing rags up noses to soak mucous, so the unknowledgeable buyer should beware.</p></section>"
+      },
+      "Human": {
+        "name": "Człowiek",
+        "description": "<section id=\"secret-vD5MVV7CgllMC91b\" class=\"secret\"><p>@UUID[JournalEntry.IQ0PgoJihQltCBUU.JournalEntryPage.l0f11ypRjH9sR48Q#humans-(reiklander)]{Humans (Reiklander)}</p></section>"
+      },
+      "Hydra": {
+        "name": "Hydra",
+        "description": "<section id=\"secret-y3bSlbe8NGBkeQXt\" class=\"secret\"><p>The many-headed, lizard-like Hydra has a hulking body supporting a maze of necks and heads that breathe smoky fire and bite ferociously. A surprisingly tenacious and stealthy creature, Hydras will stalk prey for miles; however, they all too often lose patience and charge, heads roaring.</p></section>"
+      },
+      "Jabberslythe": {
+        "name": "Jabberslythe",
+        "description": "<section id=\"secret-ZoRnOiMJetjmYnjP\" class=\"secret\"><p>The Jabberslythe is an ancient creature of Chaos that lurks beneath the shadowy eaves of the deepest, darkest forests. A maddening creature, the Jabberslythe is a disgusting mixture of Toad, Sludge-drake, and Insect, all filled with corrosive, black blood that spurts free at the slightest wound. Worse, any viewing this horror seem to lose their minds, gibbering and rhyming, clawing at their eyes, and shrieking with manic laughter, which leaves easy prey for the Jabberslythe.</p><p>Further, it has a sticky tongue that can lash out and pull its next meal into its gaping maw. As befits its appearance, the creature moves in a lolloping and awkward manner, and even possesses wings, though they’re too small to properly lift its bloated torso.</p></section>"
+      },
+      "Kastor Erichson": {
+        "name": "Kastora Erichsona",
+        "description": ""
+      },
+      "Manticore": {
+        "name": "Mantykora",
+        "description": "<section id=\"secret-F7nAtWNkv1I7DC2i\" class=\"secret\"><blockquote><p>'When I was travelin’ with the elves to Ulthuan, I seen a great many things as would astound most folks back ‘ome. one time I saw a manticore, only in the center of its lion-head it had the face of a great Elf! I suppose it was less a Manticore, than an Elf-ticore.’</p><p style=\"text-align: right;\"><em>– Adhemar Fitztancred, Grey Guardian, raconteur and liar</em></p></blockquote><p>Fortunately rare, Manticores are unrelentingly ferocious, driven to clear their territory of predatory rivals with extraordinary brutality. This means you normally know when you’re moving into the territory of a Manticore — corpses of other monsters litter the high grounds. The creature has the head and body of a twisted great cat (though sometimes its face appears almost too  Human), the wings of a Bat, and a wicked, thrashing, barbed tail.</p></section>"
+      },
+      "Minotaur": {
+        "name": "Minotaur",
+        "description": "<section id=\"secret-rgCbHIibGUe2g7ZT\" class=\"secret\"><p>Massive and hulking, bull-like Minotaurs tower above even the greatest Bestigors. Herds with a large contingent of Minotaurs consider themselves especially blessed by the Dark Gods. Beastmen herds congregate around the Minotaurs as their imposing presence gives the lesser beasts courage.</p></section>"
+      },
+      "Mutant": {
+        "name": "Mutant",
+        "description": "<section id=\"secret-RCtLjQDm9fZUQznl\" class=\"secret\"><p>One of the most tragic fates to befall a Human is to succumb to the mutating inﬂuence of Chaos. It can happen without rhyme or reason, and even babies can be born mutated. When such happens, many parents fnd they cannot summon the will to murder their children, so instead abandon their offspring to the woods, either to die or be taken in by other Mutants or Beastmen. No matter how innocent they may be, all mutants are a source of terror for the common folk, so most fall to the Dark Gods, abandoned and embittered, or end it all before it’s too late.</p></section>"
+      },
+      "Ogre": {
+        "name": "Ogr",
+        "description": "<section id=\"secret-H6gOCFUUwgl4V5bb\" class=\"secret\"><blockquote><p><span class=\"fontstyle0\">‘Yes, I summoned them because I needed reinforcements. yes, I know they are eating your prize cattle. and, yes, I know ogres have large appetites. ‘I‘ve put a notice on the local watch-house offering a small payment to anyone with the wherewithal to make them go. That should prove more than suffcient.’</span></p><p style=\"text-align: right\"><span class=\"fontstyle0\" style=\"font-size: 10pt;\"><em>– Augustus von Raushvel, Baron of Raush Vale</em></span>  </p></blockquote><p> </p><p><span class=\"fontstyle0\">Big, loud, brutish, and extremely violent, Ogres are driven by the need to fill their prodigious, muscled bellies. They lack the wit or intelligence to do this cleverly, defaulting to might is right in most situations. Hailing from lands far to the east, Ogres are a common sight in the Old World for they love to wander, always on the hunt for new meats over the horizon. As they pass through on decades-long food excursions, they work hard to integrate, wearing local clothing and following the local customs they understand, as that’s more likely to attract the next meal.</span></p><p><span class=\"fontstyle0\">In the Empire, they frequently serve in the State Army, and are an everyday sight in larger towns, contracted as muscle for hire. The Halﬂing Gaffers Guild (building contractors) has effectively cornered the market in cheap Ogre labour in many towns and cities of the Empire, a source of great annoyance to their rivals.</span></p><blockquote class=\"sidebar\"><h3 style=\"text-align: center\"><em>Halflings and Ogres</em></h3><p><em>None know why, but Halflings and Ogres just get on. Most elders of Halfling clans have one or two Ogre bodyguards, and it’s said the Elder of @UUID[Compendium.wfrp4e-archives1.journals.g948GZpNWZCMRFup]{the Moot} rarely travels without his old friend Zorarth Legbiter, a hoary Ogre who’s lived in the Empire for almost a century. In return, many Ogre mercenary bands employ Halfling cooks. However, this relationship doesn’t always hold, such as when Golgfag Maneater, mercenary captain of the imaginatively named Golgfag’s Maneaters, famously employing a small clan of Halflings to feed him and his regiment after a great victory. Which was fine until Golgfag realised the cooks tasted far better than the food they’d prepared…</em></p></blockquote></section>"
+      },
+      "Orc": {
+        "name": "Ork",
+        "description": "<section id=\"secret-Fkkw0kiOwXuiWN3G\" class=\"secret\"><blockquote><p>We iz the best. We iz not dem weedie Gobbos or stoopid Trollz, we iz well ‘ard! An’ if anywun sayz we ain’t, we iz gunna stomp on der edz.’</p><p style=\"text-align: right\"><em>– Gurkk skulltaka, Orc Boss</em></p></blockquote><p> </p><p>Orcs are nasty, brutal, belligerent, and almost immune to pain. They have muscular, hulking bodies, wide, powerful shoulders, and won’t let a little thing like a lost arm get in the way of a good scrap. They are built for fighting and like nothing more than doing so. When they have no enemies to fight, they take on rival groups of Greenskins. If there is no rival group, they will fight among themselves. Though not as numerous as @UUID[Compendium.wfrp4e-core.actors.zzdOpKqBC28J66Mn]{Goblins}, they are bigger and tougher, and they let them know it at every opportunity. Orcs can grow to prodigious size, with larger Orcs stronger, tougher, and more aggressive, and therefore accorded more prestige: for might equals right in their warlike society. Some Orcs ride huge boars into battle, a sight that rarely fails to terrify.</p></section>"
+      },
+      "Pegasus": {
+        "name": "Pegaz",
+        "description": "<section id=\"secret-5kEjANcNIwA5N8HX\" class=\"secret\"><blockquote><p>‘Ayup, the fields are lush round these parts, as it ‘appens. It’s the Pegasi, see. no need to buy manure for fertiliser, it falls from the ‘eavens, like a gift from the gods. Mind, you don’t wanna be standin’ underneath the ‘erds when they fly over. Messy. very messy.’ </p><p style=\"text-align: right;\"><em>– Berthold Bruner, Farmer and Pegasus-watcher</em></p></blockquote><p>Pegasi are handsome white horses with great swan-like wings. They are dogged and inexhaustible ﬂyers that ﬂy in great herds in the high mountains, seemingly taking great delight as they swoop and swirl on the spiraling thermal currents. They are obvious candidates for steeds and many a warrior or scout has tried to catch a Pegasus of their own. They are very intelligent, and some believe they only allow themselves to be captured if they wish to be, which has led to all manner of fancifully romantic legends insisting only those worthy, or virtuous enough may be chosen.</p></section>"
+      },
+      "Pigeon": {
+        "name": "Gołąb",
+        "description": "<section id=\"secret-Xfobvpz375Ivv2Vq\" class=\"secret\"><p>Pigeons are bred across the Reikland to carry messages of all kinds. Recently, they have become&nbsp; renowned for carrying a deadlier cargo, as the easily accessible bird has become a favourite amongst engineers, used to deploy their ‘pigeon bombs’ to varying degrees of success.</p></section>"
+      },
+      "Pol Dankels": {
+        "name": "Pol Dankels",
+        "description": "<section id=\"secret-GH764CZAlWZYVjyB\" class=\"secret\"><p>Pol thought he would follow in his parent’s footsteps, running the Blessed Bertram Bakery in Tahme, but the gods had another plan. It was on his twenty- third birthday, the day his wife found out he’d been sleeping with her sister and tried to take their three children, that something snapped. Onlookers claimed his eyes glowed yellow and orange flames erupted from his hands. As far as Pol was concerned, the world turned red as the bakery burned down. That was seven months ago. Pol has been on the road with his three children ever since, desperately fleeing Witch Hunters and the agents of his wife. He will not be caught. His children need him.</p></section>"
+      },
+      "Rat Ogre": {
+        "name": "Szczur Ogr",
+        "description": "<section id=\"secret-3UMUO87tTablqd9e\" class=\"secret\"><p>Rat Ogres are hulking brutes, bred in the dark caverns of the Underempire by the demented ministerings of Clan Molder’s packmasters. They are stupid, but when driven by their Skaven masters are fearless and unrelenting in combat. Rarely encountered on their own, they tend to be accompany Grey Seers, or other ranking Skaven, serving as a bodyguard.</p></section>"
+      },
+      "Skeleton": {
+        "name": "Szkielet",
+        "description": "<section id=\"secret-6jYDpHebVUxzqTcU\" class=\"secret\"><blockquote><p>‘I raised the heavy lid expecting to find the glorious golden death mask of Khetanken. But we had been misinformed. A bony hand flew out and grabbed my neck. Startled, I dropped the lid, and the hand and lower arm were severed, trapping the undead creature within the sarcophagus.</p><p>‘But it held on tightly, squeezing my neck so I could hardly breathe! I thought I was going to die. But Sister Celestine threw some of her sacred water over the thing, and it became lifeless once more.</p><p>‘I use it as a back scratcher now.’</p><p style=\"text-align: right;\"><em>– Hubert Karter, Tomb Robber</em></p></blockquote><p>Skeletons are the fleshless bones of those long dead, reanimated by dark magic to walk the earth as mockeries of the living. Those who died and were not laid to rest according to the rituals of @UUID[JournalEntry.NcH9OhleJFfaUdon.JournalEntryPage.HfmrIexylrgxIz2x]{Morr, the God of Death}, may be resurrected in this form by a sufficiently powerful necromancer. Utterly mindless, Skeletons will fight until their bones are smashed to pieces. They have no courage for they have no fear. They cannot be killed because they are not alive. </p><blockquote class=\"sidebar\"><h3 style=\"text-align: center; text-transform:uppercase\" class=\"sidebar-title no-toc\"><em>Options: Dem Bones</em></h3><p><strong><span style=\"font-family: CaslonPro\"><span style=\"color: rgb(0, 0, 0); font-family: CaslonPro; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 500; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">To reﬂect the bony nature of Skeletons, you may want to impose a penalty of –1  damage to Wounds inﬂicted by weapons without the pummel trait.</span></span></strong></p></blockquote></section>"
+      },
+      "Slenderthigh Whiptongue": {
+        "name": "Slenderthigh Whiptongue",
+        "description": ""
+      },
+      "Snake": {
+        "name": "Wąż",
+        "description": "<section id=\"secret-tj8CFhFF60AgqJKX\" class=\"secret\"><p>Snakes are found throughout the Empire, especially deep within the forests. Most are harmless, but some possess deadly venom or constrict their victims until they die of suffocation. Like many creatures of the Old World, they can grow to gigantic proportions, such as the enormous Fen Worm, posing a real danger to even the strongest mercenary.</p></section>"
+      },
+      "Snotling": {
+        "name": "Parskanie",
+        "description": "<section id=\"secret-BqvRpOU9iDidxoBa\" class=\"secret\"><p>Pea-brained creatures akin to enthusiastic, uncontrolled puppies, Snotlings are scavengers and natural mimics, picking up bones and shiny things wherever they go, or copying the actions of anything they see. If pushed into conﬂict by @UUID[Compendium.wfrp4e-core.actors.zzdOpKqBC28J66Mn]{Goblins} or @UUID[Compendium.wfrp4e-core.actors.E7BiDqsB55BrOQut]{Orcs}, they fight in stinking swarms, trying to overwhelm their foes through sheer weight of numbers. To do this they find all sorts of disgusting and noxious substances, like poisonous fungus and bodily waste, to hurl at their enemies.</p></section>"
+      },
+      "Stellemar": {
+        "name": "Gwiazdor",
+        "description": ""
+      },
+      "Stormvermin": {
+        "name": "Stormvermin",
+        "description": "<section id=\"secret-1mHIdKmXK0Gpzm7P\" class=\"secret\"><p>The elite fghters of the Skaven are the Stormvermin: bigger, stronger, tougher and more disciplined than @UUID[Compendium.wfrp4e-core.actors.F1vAZZcmVKkRw8xn]{Clanrats}. They will serve as the core of any major assault and comprise the bodyguard of important Skaven. Stormvermin are usually well armed and armoured, sporting weapon combinations favoured by their clan.</p></section>"
+      },
+      "Tomb Banshee": {
+        "name": "Banshee Grobowcowa",
+        "description": "<section id=\"secret-wmQDClJDzh3hfRuX\" class=\"secret\"><p>Tomb Banshees are the spectral remains of once powerful witches whose spirits are steeped in the foetid energy of <em>dhar</em>. Their restless afterlife is tormented by loss and bitterness, a yawning void in their souls that drives them to release terrifying, soul-wrenching howls potent enough to drive those hearing it insane, or even to stop their very hearts.</p></section>"
+      },
+      "Troll": {
+        "name": "Troll",
+        "description": "<section id=\"secret-6aymVnM91tQxg16V\" class=\"secret\"><blockquote><p> ‘I assure you, sir, we have done extensive surveys on this subject, and have lost some of our bravest taxonomists in this endeavour. There are precisely twenty-three varieties of Troll living in the Empire at this moment — including seventeen sub-varieties and two unverified sightings that are yet to be classified. This level of detail is exactly what the Imperial Society was set up to do; we know our figures are accurate.’ </p><p style=\"text-align: right;\"><em>– Ignatius of Nuln, Man of Letters</em></p></blockquote><p>Trolls are filthy, foul creatures that infest all corners of the Old World. Quick to adapt to their surroundings they come in a variety of types, but all are huge and imposing. They are dim and led by their instinct for food, but they like to hoard and their lairs can be a trove of useful and valuable treasures… and the grisly remains of their meals. Although there are many species of Troll, they all share some   common features: they are usually extremely stupid, which means any quick-witted foe can get an edge over them; they can regenerate, which makes them extremely difficult to kill; and they are able to regurgitate their last meal at will, vomiting acrid bile over a shockingly impressive distance — although they are loathe to do this as it leaves them extremely hungry.</p></section>"
+      },
+      "Ungor": {
+        "name": "Ungor",
+        "description": "<section id=\"secret-hOrEyZdCdR6bSlAT\" class=\"secret\"><p>Ungors have vestigial or very short horns and are thus barely considered ‘Gor’ by the rest of the herd. Some even sport Human-like faces, making them effective infltrators, but also a target for ridicule. Indeed, Ungors are poorly treated by the @UUID[Compendium.wfrp4e-core.actors.R37OtN5gmPWCYOP3]{Gors}, and are often stunted or malnourished in comparison to their larger-horned brethren, leaving them bitter creatures eager to take out their jealousy on others.</p></section>"
+      },
+      "Vampire": {
+        "name": "Wampir",
+        "description": "<section id=\"secret-psHPfMEeNxOmbpwn\" class=\"secret\"><p>Vampires see themselves as the rulers of the night. Many can pass as Human, some even functioning for long periods amongst the living. Despite their outwardly Human appearance, no heart beats beneath their pale skin, and in lieu of mortal hungers they possess an abiding thirst for blood. All Vampires of the Old World are ultimately descended from ancient bloodlines that originated millennia ago far to the south. Many are fercely proud of their heritage and the traits and traditions that set them apart from others. The Vampires of different bloodlines are often bitter rivals, but they are astute enough to come together when necessary to face greater foes.</p></section>"
+      },
+      "Varghulf": {
+        "name": "Varghulf",
+        "description": "<section id=\"secret-f8TGSacwlNZd26YU\" class=\"secret\"><p>Most Vampires balance their Undead need for blood with a veneer of civility and decorum, styling themselves as the aristocracy of the Undead. However, some eschew their human façade, embracing the beast within. These Varghulfs are savage and wild, creatures devoid of all sophistry, abandoned entirely to animalistic self-gratifcation. They manifest as a big, bloated, bat-like beast, basking in their base urge for blood.</p></section>"
+      },
+      "Wolf": {
+        "name": "Wilk",
+        "description": "<section id=\"secret-wJXgxaCwSmFphyyH\" class=\"secret\"><p>Wolves usually hunt in packs and have a reputation for being tenacious hunters, pursuing their prey over dozens of miles without rest or respite. Several species prowl the Reikland, including the fierce Giant Wolves, which are captured and bred by @UUID[Compendium.wfrp4e-core.actors.zzdOpKqBC28J66Mn]{Goblins} to use as guards and mounts.</p></section>"
+      },
+      "Wood Elf": {
+        "name": "Elf drzewny",
+        "description": "<section id=\"secret-HaVbfBaaBSzWZbNX\" class=\"secret\"><p>@UUID[JournalEntry.IQ0PgoJihQltCBUU.JournalEntryPage.l0f11ypRjH9sR48Q#wood-elves]{Wood Elves}</p></section>"
+      },
+      "Wyvern": {
+        "name": "Wiwerna",
+        "description": "<section id=\"secret-cyNfNjzSosW7sqqJ\" class=\"secret\"><p>Although the uneducated often mistake them for @UUID[Compendium.wfrp4e-core.actors.LZttdCIxmFr1sGsS]{Dragons}, beyond their superficial similarities, foul-smelling Wyverns are nothing like those dignified creatures. Cowardly scavengers with weak eyesight, they tend to sate their rapacious appetites by picking off defenceless creatures — mostly sheep and goats — avoiding outright combat when possible. Unlike other monsters of the Mountains, Wyverns are not especially territorial, and tend to move on when their hunting grounds are invaded.</p></section>"
+      },
+      "Zombie": {
+        "name": "Zombie",
+        "description": "<section id=\"secret-E4HqcQ4lwXPfIFHB\" class=\"secret\"><p>Like @UUID[Compendium.wfrp4e-core.actors.Mt5JAoOSaEH1PdcP]{Skeletons}, Zombies are Undead creatures reanimated and bound together with foul magics. Unlike Skeletons, they are so recently dead that much of their corporeal body still exists, rotting and diseased ﬂesh sagging over their maggoty, swollen organs. As they fight, their ﬂesh and organs slough from their bones, releasing a nauseating, noxious stench, powerful enough to turn<br>the stomachs of all but the most hardened of soldiers</p></section>"
+      }
+    }
+  }
